@@ -1,0 +1,8 @@
+name: CustomGUI
+version: 1.0-SNAPSHOT
+api-version: 1.18
+author: KnightHat
+main: me.knighthat.plugin.Main
+commands:
+  menu:
+  
